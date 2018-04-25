@@ -1,0 +1,14 @@
+c:\Code\csharp-test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Code\csharp-test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Code\csharp-test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Code\csharp-test\bin\Debug\netcoreapp2.0\webdriverdotnet.deps.json
+c:\Code\csharp-test\bin\Debug\netcoreapp2.0\webdriverdotnet.runtimeconfig.json
+c:\Code\csharp-test\bin\Debug\netcoreapp2.0\webdriverdotnet.runtimeconfig.dev.json
+c:\Code\csharp-test\bin\Debug\netcoreapp2.0\webdriverdotnet.dll
+c:\Code\csharp-test\bin\Debug\netcoreapp2.0\webdriverdotnet.pdb
+c:\Code\csharp-test\obj\Debug\netcoreapp2.0\webdriverdotnet.csproj.CoreCompileInputs.cache
+c:\Code\csharp-test\obj\Debug\netcoreapp2.0\webdriverdotnet.AssemblyInfoInputs.cache
+c:\Code\csharp-test\obj\Debug\netcoreapp2.0\webdriverdotnet.AssemblyInfo.cs
+c:\Code\csharp-test\obj\Debug\netcoreapp2.0\webdriverdotnet.dll
+c:\Code\csharp-test\obj\Debug\netcoreapp2.0\webdriverdotnet.pdb
+c:\Code\csharp-test\obj\Debug\netcoreapp2.0\webdriverdotnet.csprojResolveAssemblyReference.cache
