@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/webdriverdotnet.csproj"
+                "${workspaceFolder}/LDSTesting.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

@@ -1,0 +1,14 @@
+c:\Code\LDSTesting\bin\Debug\netcoreapp2.0\LDSTesting.deps.json
+c:\Code\LDSTesting\bin\Debug\netcoreapp2.0\LDSTesting.dll
+c:\Code\LDSTesting\bin\Debug\netcoreapp2.0\LDSTesting.pdb
+c:\Code\LDSTesting\obj\Debug\netcoreapp2.0\LDSTesting.csprojResolveAssemblyReference.cache
+c:\Code\LDSTesting\obj\Debug\netcoreapp2.0\LDSTesting.csproj.CoreCompileInputs.cache
+c:\Code\LDSTesting\obj\Debug\netcoreapp2.0\LDSTesting.AssemblyInfoInputs.cache
+c:\Code\LDSTesting\obj\Debug\netcoreapp2.0\LDSTesting.AssemblyInfo.cs
+c:\Code\LDSTesting\obj\Debug\netcoreapp2.0\LDSTesting.dll
+c:\Code\LDSTesting\obj\Debug\netcoreapp2.0\LDSTesting.pdb
+c:\Code\LDSTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Code\LDSTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Code\LDSTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Code\LDSTesting\bin\Debug\netcoreapp2.0\LDSTesting.runtimeconfig.json
+c:\Code\LDSTesting\bin\Debug\netcoreapp2.0\LDSTesting.runtimeconfig.dev.json

@@ -5704,11 +5704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\csharp-test\\webdriverdotnet.csproj",
-      "projectName": "webdriverdotnet",
-      "projectPath": "C:\\Code\\csharp-test\\webdriverdotnet.csproj",
+      "projectUniqueName": "c:\\Code\\LDSTesting\\LDSTesting.csproj",
+      "projectName": "LDSTesting",
+      "projectPath": "c:\\Code\\LDSTesting\\LDSTesting.csproj",
       "packagesPath": "C:\\Users\\spencerleecollier\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\csharp-test\\obj\\",
+      "outputPath": "c:\\Code\\LDSTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5751,6 +5751,7 @@
             "version": "[15.3.0-preview-20170628-02, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
